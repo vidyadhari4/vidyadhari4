@@ -25,6 +25,7 @@
     * Have done the Face Mask Recognition project using TensorFlow, OpenCV, DNN.
 
 <h2>Connect</h2>
+[![Twitter][http://i.imgur.com/wWzX9uB.png][https://twitter.com/]
 
 
  
