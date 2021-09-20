@@ -1,6 +1,8 @@
 
 
-<!--[<img align='center' alt='about' width="80" src="https://github.com/vidyadhari4/images/blob/main/tw-icon.ico" />]( https://vidyadhari4.github.io/myfolio/)-->
+<!--- 
+[<img align='center' alt='about' width="80" src="https://github.com/vidyadhari4/images/blob/main/tw-icon.ico" />]( https://vidyadhari4.github.io/myfolio/)
+--->
 
 <h1 style="color:Blue">Hey , I am Vidyadhari !!</h1>
  
