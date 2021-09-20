@@ -25,7 +25,19 @@
     * Have done the Face Mask Recognition project using TensorFlow, OpenCV, DNN.
 
 <h2>Connect</h2>
-[![Twitter][http://i.imgur.com/wWzX9uB.png][https://twitter.com/]
+<!-- Actual text -->
+
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/heinz-martin/
 
 
  
