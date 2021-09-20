@@ -1,4 +1,8 @@
- <h1 style="color:Blue">Hey , I am Vidyadhari !!</h1>
+
+
+<!--[<img align='center' alt='about' width="80" src="https://github.com/vidyadhari4/images/blob/main/tw-icon.ico" />]( https://vidyadhari4.github.io/myfolio/)-->
+
+<h1 style="color:Blue">Hey , I am Vidyadhari !!</h1>
  
  <h2>About Me</h2>
  
@@ -26,19 +30,10 @@
 
 <h2>Connect</h2>
 <!-- Actual text -->
-[<img src="https://github.com/vidyadhari4/OneTap/tree/main/images/tw-icon.png">](https://twitter.com/)
 
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
+[<img align="center" alt="Twitter" width="30" src="https://github.com/vidyadhari4/images/blob/main/tw-icon.ico" />]( https://twitter.com)
 
-<!-- Icons -->
 
-[1.2]: https://github.com/vidyadhari4/OneTap/tree/main/images/tw-icon.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/
-[2]: https://www.linkedin.com/in/vidyadhariathota
 
 
  
