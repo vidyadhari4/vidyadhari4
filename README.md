@@ -29,7 +29,7 @@
   - Machine Learning
     * Have done the Face Mask Recognition project using TensorFlow, OpenCV, DNN.
 
-<h2>Connect</h2>
+<h2>Contact</h2>
 <!-- Actual text -->
 
 [<img align="center" alt="Twitter" width="30" src="https://github.com/vidyadhari4/images/blob/main/tw-icon.ico" />]( https://twitter.com)
