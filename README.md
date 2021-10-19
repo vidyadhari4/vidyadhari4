@@ -1,7 +1,7 @@
 
 
 
-[<img align='center' alt='about' width="80" src="https://github.com/vidyadhari4/images/blob/main/tw-icon.ico" />](https://vidyadhari4.github.io/GithubProfile/)
+[<img align='center' alt='about' width="1900" src="https://github.com/vidyadhari4/images/blob/main/gitprof.ico" />](https://vidyadhari4.github.io/GithubProfile/)
 
 <h1 style="color:Blue">Hey , I am Vidyadhari !!</h1>
  
