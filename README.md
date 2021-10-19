@@ -3,7 +3,7 @@
 
 [<img align='center' alt='about' width="1900" src="https://github.com/vidyadhari4/images/blob/main/gitprof.PNG" />](https://vidyadhari4.github.io/GithubProfile/)
 
-<h1 style="color:Blue">Hey , I am Vidyadhari !!</h1>
+
  
  <h2>About Me</h2>
  
