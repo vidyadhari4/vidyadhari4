@@ -25,7 +25,7 @@
       * My Portfolio
       * Restaurant Website
   - Languages: 
-      >CPP, Python and a bit of MySQL,Java
+      >CPP, Python, Java, MySQL
   - Machine Learning
     * Have done the Face Mask Recognition project using TensorFlow, OpenCV, DNN.
 
